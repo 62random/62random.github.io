@@ -1,10 +1,5 @@
-# Site settings
 title: José Pedro Pinto
 description: José Pedro Pinto
-
-# User settings
 username: José Pedro Pinto
 user_title: Machine Learning Engineer, Data Scientist
 email: geral@jpedropinto.com
-
-exclude: [ 'package.json', 'src' , 'node_modules' ]
